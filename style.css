@@ -6,3 +6,10 @@ h1 {
 #telefonButton {
     color: blue;
 }
+
+.box {
+    border: 3px solid #d31d1d;
+    border-radius: 16px;
+    padding: 30px;
+}
+
