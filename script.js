@@ -1,8 +1,6 @@
-
 const imie = "Zosia";
 let zwierze = 'kota';
 console.log(imie + " ma " + zwierze + "... 🐈🐈🐈");
-
 
 function showContact(content) {
     // console.log("😎😎😎");
