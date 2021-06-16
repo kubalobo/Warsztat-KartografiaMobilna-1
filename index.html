@@ -9,6 +9,8 @@
     <title>Warsztaty!!!!</title>
 
     <link href="./style.css" rel="stylesheet" />
+    <script src="script.js"></script>
+
 </head>
 
 <body>
@@ -21,15 +23,16 @@
 
     <p>
         ul. Gruszek i Jabłuszek 18<br />
-        00-000 Wałbrzych
+        00-000 Wałbrzych<br />
+        <a href="https://google.pl/">Strona internetowa</a>
     </p>
 
     <h2>Kontakt:</h2>
 
     <div class="box">
         <button id="telefonButton">Telefon</button>
-        <button>Email</button>
-        <p>Tutaj...</p>
+        <button onclick="showEmail()">Email</button>
+        <p id="contactSpace"></p>
     </div>
 
 </body>

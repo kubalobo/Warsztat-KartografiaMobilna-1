@@ -7,6 +7,10 @@ h1 {
     color: blue;
 }
 
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 .box {
     border: 3px solid #d31d1d;
     border-radius: 16px;
